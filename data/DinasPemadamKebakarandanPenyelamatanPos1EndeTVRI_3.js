@@ -1,0 +1,1 @@
+var json_DinasPemadamKebakarandanPenyelamatanPos1EndeTVRI_3 = {"type":"FeatureCollection","name":"DinasPemadamKebakarandanPenyelamatanPos1EndeTVRI_3","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null},"geometry":{"type":"Point","coordinates":[112.714456914494775,-7.290015777964098]}}]}
